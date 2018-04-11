@@ -1,0 +1,31 @@
+C:\Users\Michael\AppData\Local\Temporary Projects\ebuc\bin\Debug\Direct 3D Anwendung1.exe.config
+d:\Dokumente\Visual Studio 2013\Projects\ebuc\ebuc\bin\Debug\ebuc.exe.config
+d:\Dokumente\Visual Studio 2013\Projects\ebuc\ebuc\bin\Debug\ebuc.exe
+d:\Dokumente\Visual Studio 2013\Projects\ebuc\ebuc\bin\Debug\ebuc.pdb
+d:\Dokumente\Visual Studio 2013\Projects\ebuc\ebuc\bin\Debug\ebuc.xml
+d:\Dokumente\Visual Studio 2013\Projects\ebuc\ebuc\obj\x86\Debug\ebuc.vbprojResolveAssemblyReference.cache
+d:\Dokumente\Visual Studio 2013\Projects\ebuc\ebuc\obj\x86\Debug\ebuc.Form1.resources
+d:\Dokumente\Visual Studio 2013\Projects\ebuc\ebuc\obj\x86\Debug\ebuc.Resources.resources
+d:\Dokumente\Visual Studio 2013\Projects\ebuc\ebuc\obj\x86\Debug\ebuc.vbproj.GenerateResource.Cache
+d:\Dokumente\Visual Studio 2013\Projects\ebuc\ebuc\obj\x86\Debug\ebuc.exe
+d:\Dokumente\Visual Studio 2013\Projects\ebuc\ebuc\obj\x86\Debug\ebuc.xml
+d:\Dokumente\Visual Studio 2013\Projects\ebuc\ebuc\obj\x86\Debug\ebuc.pdb
+d:\Dokumente\Visual Studio 2013\Projects\ebuc\ebuc\bin\Debug\Recources\bboden1.png
+d:\Dokumente\Visual Studio 2013\Projects\ebuc\ebuc\bin\Debug\Recources\cube.png
+d:\Dokumente\Visual Studio 2013\Projects\ebuc\ebuc\bin\Debug\Recources\sidelight.png
+d:\Dokumente\Visual Studio 2013\Projects\ebuc\ebuc\bin\Debug\Recources\t1.WAV
+Z:\ebuc\ebuc\bin\Debug\ebuc.exe.config
+Z:\ebuc\ebuc\obj\x86\Debug\ebuc.exe
+Z:\ebuc\ebuc\obj\x86\Debug\ebuc.xml
+Z:\ebuc\ebuc\obj\x86\Debug\ebuc.pdb
+Z:\ebuc\ebuc\bin\Debug\Recources\bboden1.png
+Z:\ebuc\ebuc\bin\Debug\Recources\cube.png
+Z:\ebuc\ebuc\bin\Debug\Recources\sidelight.png
+Z:\ebuc\ebuc\bin\Debug\Recources\t1.WAV
+Z:\ebuc\ebuc\bin\Debug\ebuc.exe
+Z:\ebuc\ebuc\bin\Debug\ebuc.pdb
+Z:\ebuc\ebuc\bin\Debug\ebuc.xml
+Z:\ebuc\ebuc\obj\x86\Debug\ebuc.vbprojResolveAssemblyReference.cache
+Z:\ebuc\ebuc\obj\x86\Debug\ebuc.Form1.resources
+Z:\ebuc\ebuc\obj\x86\Debug\ebuc.Resources.resources
+Z:\ebuc\ebuc\obj\x86\Debug\ebuc.vbproj.GenerateResource.Cache
